@@ -2,9 +2,14 @@
   "catalogs": {},
   "aliases": {
     "mima": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:RELEASE",
+      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.4",
       "java-agents": [],
-      "description": "MIMA CLI"
+      "description": "MIMA 2.x CLI"
+    },
+    "mima3": {
+      "script-ref": "eu.maveniverse.maven.mima:cli:3.0.0-alpha-2",
+      "java-agents": [],
+      "description": "MIMA 3.x CLI"
     }
   }
 }

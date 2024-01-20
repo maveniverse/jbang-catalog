@@ -2,19 +2,19 @@
   "catalogs": {},
   "aliases": {
     "mima": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.5",
+      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.6",
       "java-agents": [],
-      "description": "MIMA 2.x CLI"
+      "description": "MIMA 2.x CLI (stable)"
     },
     "mima2": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.5",
+      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.6",
       "java-agents": [],
-      "description": "MIMA 2.x CLI"
+      "description": "MIMA 2.x CLI (stable)"
     },
     "mima3": {
       "script-ref": "eu.maveniverse.maven.mima:cli:3.0.0-alpha-3",
       "java-agents": [],
-      "description": "MIMA 3.x CLI"
+      "description": "MIMA 3.x CLI (alpha)"
     }
   }
 }

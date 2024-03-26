@@ -15,6 +15,11 @@
       "script-ref": "eu.maveniverse.maven.mima:cli:3.0.0-alpha-3",
       "java-agents": [],
       "description": "MIMA 3.x CLI (alpha)"
+    },
+    "toolbox": {
+      "script-ref": "eu.maveniverse.maven.plugins:toolbox:jar:cli:3.0.0-alpha-3",
+      "java-agents": [],
+      "description": "Toolbox 0.x CLI (alpha)"
     }
   }
 }

@@ -17,7 +17,7 @@
       "description": "MIMA 3.x CLI (alpha)"
     },
     "toolbox": {
-      "script-ref": "eu.maveniverse.maven.plugins:toolbox:jar:cli:0.1.0",
+      "script-ref": "eu.maveniverse.maven.plugins:toolbox:jar:0.1.0-cli",
       "java-agents": [],
       "description": "Toolbox 0.x CLI (alpha)"
     }

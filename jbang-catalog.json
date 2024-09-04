@@ -21,10 +21,5 @@
       "java-agents": [],
       "description": "Toolbox 0.x CLI (alpha)"
     },
-    "toolbox-test": {
-      "script-ref": "eu.maveniverse.maven.plugins:toolbox:cli:0.2.5@fatjar",
-      "java-agents": [],
-      "description": "Toolbox 0.x CLI (alpha)"
-    }
   }
 }

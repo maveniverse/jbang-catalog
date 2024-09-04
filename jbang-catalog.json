@@ -2,12 +2,12 @@
   "catalogs": {},
   "aliases": {
     "mima": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.15",
+      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.20",
       "java-agents": [],
       "description": "MIMA 2.x CLI (stable) -- deprecated see toolbox@maveniverse"
     },
     "mima2": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.15",
+      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.20",
       "java-agents": [],
       "description": "MIMA 2.x CLI (stable) -- deprecated see toolbox@maveniverse"
     },
@@ -17,7 +17,7 @@
       "description": "MIMA 3.x CLI (alpha) -- deprecated see toolbox@maveniverse"
     },
     "toolbox": {
-      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.2.4/toolbox-0.2.4-cli.jar",
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.2.5/toolbox-0.2.5-cli.jar",
       "java-agents": [],
       "description": "Toolbox 0.x CLI (alpha)"
     }

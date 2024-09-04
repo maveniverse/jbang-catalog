@@ -20,6 +20,11 @@
       "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.2.5/toolbox-0.2.5-cli.jar",
       "java-agents": [],
       "description": "Toolbox 0.x CLI (alpha)"
+    },
+    "toolbox-test": {
+      "script-ref": "eu.maveniverse.maven.plugins:toolbox:cli:0.2.5@fatjar",
+      "java-agents": [],
+      "description": "Toolbox 0.x CLI (alpha)"
     }
   }
 }

@@ -17,7 +17,7 @@
       "description": "MIMA 3.x CLI (alpha) -- deprecated see toolbox@maveniverse"
     },
     "toolbox": {
-      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.6.1/toolbox-0.6.1-cli.jar",
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.7.0/toolbox-0.7.0-cli.jar",
       "java-agents": [],
       "description": "Toolbox CLI"
     }

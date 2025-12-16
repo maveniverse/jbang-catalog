@@ -17,9 +17,14 @@
       "description": "MIMA 3.x CLI (alpha) -- deprecated see toolbox@maveniverse"
     },
     "toolbox": {
-      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.14.8/toolbox-0.14.8-cli.jar",
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.14.9/toolbox-0.14.9-cli.jar",
       "java-agents": [],
       "description": "Toolbox CLI"
+    },
+    "toolbox-mcp": {
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/toolbox/mcp/0.14.9/mcp-0.14.9-runner.jar",
+      "java-agents": [],
+      "description": "Toolbox MCP (use with --quiet)"
     }
   }
 }

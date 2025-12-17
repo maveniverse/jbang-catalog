@@ -1,28 +1,13 @@
 {
   "catalogs": {},
   "aliases": {
-    "mima": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.21",
-      "java-agents": [],
-      "description": "MIMA 2.x CLI (stable) -- deprecated see toolbox@maveniverse"
-    },
-    "mima2": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:2.4.21",
-      "java-agents": [],
-      "description": "MIMA 2.x CLI (stable) -- deprecated see toolbox@maveniverse"
-    },
-    "mima3": {
-      "script-ref": "eu.maveniverse.maven.mima:cli:3.0.0-alpha-3",
-      "java-agents": [],
-      "description": "MIMA 3.x CLI (alpha) -- deprecated see toolbox@maveniverse"
-    },
     "toolbox": {
-      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.14.9/toolbox-0.14.9-cli.jar",
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/plugins/toolbox/0.15.0/toolbox-0.15.0-cli.jar",
       "java-agents": [],
       "description": "Toolbox CLI"
     },
     "toolbox-mcp": {
-      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/toolbox/mcp/0.14.9/mcp-0.14.9-runner.jar",
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/toolbox/mcp/0.15.0/mcp-0.15.0-runner.jar",
       "java-agents": [],
       "description": "Toolbox MCP (use with --quiet)"
     }

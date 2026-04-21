@@ -14,7 +14,8 @@
     "pilot": {
       "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/pilot/pilot-cli/0.2.1/pilot-cli-0.2.1.jar",
       "java-agents": [],
-      "description": "Pilot CLI"
+      "description": "Pilot CLI",
+      "java": "25"
     }
   }
 }

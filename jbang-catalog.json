@@ -10,6 +10,11 @@
       "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/toolbox/mcp/0.15.8/mcp-0.15.8-runner.jar",
       "java-agents": [],
       "description": "Toolbox MCP (use with --quiet)"
+    },
+    "pilot": {
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/pilot/pilot-cli/0.2.1/pilot-cli-0.2.1.jar",
+      "java-agents": [],
+      "description": "Pilot CLI"
     }
   }
 }

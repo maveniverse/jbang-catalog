@@ -16,6 +16,11 @@
       "java-agents": [],
       "description": "Pilot CLI",
       "java": "25"
-    }
+    },
+    "huginn-mcp": {
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/huginn/huginn-mcp/0.1.0/huginn-mcp-0.1.0.jar",
+      "java-agents": [],
+      "description": "Huginn MCP (use wuth --quiet)"
+    },
   }
 }

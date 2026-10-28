@@ -18,7 +18,7 @@
       "java": "25"
     },
     "huginn-mcp": {
-      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/huginn/huginn-mcp/0.1.1/huginn-mcp-0.1.1-runner.jar",
+      "script-ref": "https://repo.maven.apache.org/maven2/eu/maveniverse/maven/huginn/huginn-mcp/0.1.2/huginn-mcp-0.1.2-runner.jar",
       "java-agents": [],
       "description": "Huginn MCP (use with --quiet)"
     }
